@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">testweatherapp</string>
+    <string name="logo">  Locations</string>
+    <string name="text_with_underline">Text with underline</string>
+    <string name="hint_user_field">Введите ваше местоположение</string>
+    <string name="main_btn">Добавить город</string>
+    <string name="no_user_text">Попробуйте еще раз ввести текст</string>
+</resources>
